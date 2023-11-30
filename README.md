@@ -4,7 +4,7 @@
 I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at <a href="https://github.com/locomotive-agency">@locomotive-agency</a> and help clients grow within Organic Search where it matter most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
 </p>
 <p align="center"> 
-When I'm not coding you can find me playing guitar or digging through thrift stores and antique shops. 
+When I'm not crawling websites or coding you can find me playing guitar or digging through thrift stores and antique shops. 
 </p>
 
 <div align="center">
