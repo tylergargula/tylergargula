@@ -10,8 +10,8 @@ When I'm not coding you can find me playing guitar or digging through thrift sto
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-tylergargula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylergargula/)](https://www.linkedin.com/in/tylergargula/)
-  [![Medium Badge](https://img.shields.io/badge/-@tgargula-03a57a?style=flat-square&label&logo=Spotify&link=[https://open.spotify.com/user/tgargula?si=027f4bc2006441e5](https://open.spotify.com/user/tgargula?si=71da4f09b2cb4b67))]([https://syrashid.medium.com](https://open.spotify.com/user/tgargula?si=71da4f09b2cb4b67))
-  [![Behance Badge](https://img.shields.io/badge/-tylergargula.dev-white?style=flat-square&label&logo=Website&logoColor=white&link=https://tylergargula.dev)](https://tylergargula.dev)
+  [![Spotify Badge](https://img.shields.io/badge/-@tgargula-03a57a?style=flat-square&label&logo=Spotify&link=https://open.spotify.com/user/tgargula?si=027f4bc2006441e5)](https://open.spotify.com/user/tgargula?si=71da4f09b2cb4b67)
+  [![Website Badge](https://img.shields.io/badge/-tylergargula.dev-white?style=flat-square&label&logo=Website&logoColor=white&link=https://tylergargula.dev)](https://tylergargula.dev)
 </div>
 <br>
 
