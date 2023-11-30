@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey There! I'm Tyler</h1>
 
 <p align="center">
-I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at [@locomotive-agency](https://github.com/locomotive-agency) and help clients grow within Organic Search where it matter most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
+I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at <a href="https://github.com/locomotive-agency">@locomotive-agency</a> and help clients grow within Organic Search where it matter most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
 </p>
 <p align="center"> 
 When I'm not coding you can find me playing guitar or digging through thrift stores and antique shops. 
