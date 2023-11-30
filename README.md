@@ -39,11 +39,3 @@ class Tyler:
         }
  ```
  
-
-<br>
-
-### Quick stats about me
-| Top Languages |
-| --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylergargula&layout=compact&theme=onedark)](https://github.com/tylergargula/github-readme-stats)|
-
