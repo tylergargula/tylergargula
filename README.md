@@ -11,7 +11,7 @@ When I'm not crawling websites or coding you can find me playing guitar or diggi
   
   [![Linkedin Badge](https://img.shields.io/badge/-tylergargula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylergargula/)](https://www.linkedin.com/in/tylergargula/)
   [![Spotify Badge](https://img.shields.io/badge/-@tgargula-03a57a?style=flat-square&label&logo=Spotify&link=https://open.spotify.com/user/tgargula?si=027f4bc2006441e5)](https://open.spotify.com/user/tgargula?si=71da4f09b2cb4b67)
-  [![Website Badge](https://img.shields.io/badge/-tylergargula.dev-white?style=flat-square&label&logo=Website&logoColor=grey&link=https://tylergargula.dev)](https://tylergargula.dev)
+  [![Website Badge](https://img.shields.io/badge/-tylergargula.dev-gray?style=flat-square&label&logo=Website&logoColor=grey&link=https://tylergargula.dev)](https://tylergargula.dev)
 </div>
 <br>
 
