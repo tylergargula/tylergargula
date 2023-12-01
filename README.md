@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey There! I'm Tyler</h1>
+<h1 align="left">👋 Hey There! I'm Tyler</h1>
 
-<p align="center">
+<p align="left">
 I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at <a href="https://github.com/locomotive-agency">@locomotive-agency</a> and help clients grow within Organic Search where it matters most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
 </p>
-<p align="center"> 
+<p align="left"> 
 When I'm not crawling websites or coding you can find me playing guitar or digging through thrift stores and antique shops. 
 </p>
 
-<div align="center">
+<div align="left">
   
   [![Linkedin Badge](https://img.shields.io/badge/-tylergargula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tylergargula/)](https://www.linkedin.com/in/tylergargula/)
   [![Spotify Badge](https://img.shields.io/badge/-@tgargula-black?style=flat-square&label&logo=Spotify&link=https://open.spotify.com/user/tgargula?si=027f4bc2006441e5)](https://open.spotify.com/user/tgargula?si=71da4f09b2cb4b67)
