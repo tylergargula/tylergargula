@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey There! I'm Tyler</h1>
 
 <p align="center">
-I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at <a href="https://github.com/locomotive-agency">@locomotive-agency</a> and help clients grow within Organic Search where it matter most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
+I'm a Technical SEO Consultant & Software Dev. I'm currently a Technical SEO Director at <a href="https://github.com/locomotive-agency">@locomotive-agency</a> and help clients grow within Organic Search where it matters most. I also develop custom SEO tools & automation to help uncover invaluable SEO opportunities that move the needle. 
 </p>
 <p align="center"> 
 When I'm not crawling websites or coding you can find me playing guitar or digging through thrift stores and antique shops. 
@@ -15,10 +15,8 @@ When I'm not crawling websites or coding you can find me playing guitar or diggi
 </div>
 <br>
 
-<h3>Me IRL</h3>
-
  ```python
-class Tyler:
+class MeIrl:
     def __init__(self):
         self.name = 'Tyler Gargula'
         self.work = ['LOCOMOTIVE Agency', 'Independent Consulting']
@@ -33,7 +31,7 @@ class Tyler:
 
     def currently(self):
         return {
-            'studying': ['Large Language Models', 'Natural Language Processing', 'Vector Databses'],
+            'studying': ['Large Language Models', 'Natural Language Processing', 'Vector Databases'],
             'reading': ['All Hack', 'The South Side'],
             'tinkering': ['Pinecone', 'Embeddings', 'LLM Fine-Tuning']
         }
