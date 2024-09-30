@@ -27,13 +27,13 @@ class MeIrl:
         return 'Chicago, IL, USA'
 
     def next_locations(self):
-        return ['Paris, FR', 'Barcelona, ESP']
+        return ['Paris, FR', 'Barcelona, ESP', 'Toronto, CA']
 
     def currently(self):
         return {
-            'studying': ['Large Language Models', 'Natural Language Processing', 'Vector Databases'],
-            'reading': ['All Hack', 'The South Side'],
-            'tinkering': ['Pinecone', 'Embeddings', 'LLM Fine-Tuning']
+            'studying': ['Machine Learning', 'Natural Language Processing', 'Vector Databases'],
+            'reading': ['Ask the Dust', 'Journey to the End of the Night', 'The Utopia of Rules'],
+            'tinkering': ['Pinecone', 'Embeddings', 'LLMs']
         }
  ```
  
