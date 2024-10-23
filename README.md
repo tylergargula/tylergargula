@@ -29,14 +29,12 @@ class MeIrl:
     def next_locations(self):
         return ['Paris, FR', 'Barcelona, ESP', 'Toronto, CA']
 
-    def currently_gaming(self):
-            return ['Black Myth: Wukong', 'Silent Hill 2 (2024)', 'Tekken 8', 'Final Fantasy XVI']
-
     def currently(self):
         return {
             'studying': ['Machine Learning', 'Natural Language Processing', 'Vector Databases'],
             'reading': ['Ask the Dust', 'Journey to the End of the Night', 'The Utopia of Rules'],
-            'tinkering': ['Pinecone', 'Embeddings', 'LLMs', 'Cloudflare Workers']
+            'tinkering': ['Pinecone', 'Embeddings', 'LLMs', 'Cloudflare Workers'],
+            'gaming': ['Black Myth: Wukong', 'Silent Hill 2 (2024)', 'Tekken 8', 'Final Fantasy XVI']
         }
  ```
  
