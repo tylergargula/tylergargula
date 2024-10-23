@@ -21,7 +21,7 @@ class MeIrl:
         self.name = 'Tyler Gargula'
         self.work = ['LOCOMOTIVE Agency', 'Independent Consulting']
         self.education = ['DePaul University', 'App Brewery', 'DeepLearning.AI']
-        self.hobbies = ['Guitar', 'Thrift', 'Vintage', 'Cooking']
+        self.hobbies = ['Guitar', 'Thrift', 'Vintage', 'Cooking', 'Gaming']
 
     def current_location(self):
         return 'Chicago, IL, USA'
@@ -29,11 +29,14 @@ class MeIrl:
     def next_locations(self):
         return ['Paris, FR', 'Barcelona, ESP', 'Toronto, CA']
 
+    def currently_gaming(self):
+            return ['Black Myth: Wukong', 'Silent Hill 2 (2024)', 'Tekken 8', 'Final Fantasy XVI']
+
     def currently(self):
         return {
             'studying': ['Machine Learning', 'Natural Language Processing', 'Vector Databases'],
             'reading': ['Ask the Dust', 'Journey to the End of the Night', 'The Utopia of Rules'],
-            'tinkering': ['Pinecone', 'Embeddings', 'LLMs']
+            'tinkering': ['Pinecone', 'Embeddings', 'LLMs', 'Cloudflare Workers']
         }
  ```
  
